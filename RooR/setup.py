@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name='Eurocybersecurite-AI-Cybersecurity',
-    version='0.2.2',
+    version='0.2.3',
     description='AI-powered cybersecurity application by Eurocybersecurite',
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -20,9 +20,9 @@ setup(
 
     # ✅ Tu peux aussi ajouter plusieurs liens utiles
     project_urls={
-        "Documentation": "https://github.com/Eurocybersecurite/Eurocybersecurite-AI-Cybersecurity/wiki",
-        "Source": "https://github.com/Eurocybersecurite/Eurocybersecurite-AI-Cybersecurity",
-        "Issues": "https://github.com/Eurocybersecurite/Eurocybersecurite-AI-Cybersecurity/issues",
+        "Documentation": "https://eurocybersecurite.fr/auth/login.php",
+        "Source": "https://github.com/tuteur1/RooR.git",
+        "Issues": "https://github.com/tuteur1/RooR/issues",
     },
 
     license='MIT',
